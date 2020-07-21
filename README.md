@@ -1,7 +1,7 @@
-# flutter-dash-dart-badges
-
+# Flutter Dart Dash Badges
+![vector of dash](http://www.feliciachamberlain.com/flutter/dash/dashed.png)
 ### All files were hand-drawn with the pen tool in Adobe Illustrator using a Wacom Intous Tablet.
-
+![animated dash with the hiccups](http://www.feliciachamberlain.com/flutter/dash/dash-dart.gif)
 ## Dash Badges  
 ### Dash badges were made to add a spot of fun for mesage boards, internal team badges, etc.  Original size is 40 x 40. 3x is 192 x 192.
 
