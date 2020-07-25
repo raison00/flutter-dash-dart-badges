@@ -1,6 +1,6 @@
 # Flutter Dart Dash Badges for Android, Apple, Windows
 
-![apple-icon-152x152.png](dash-dart.ico/apple-icon-152x152.png)
+![apple-icon-152x152.png](../../../dash-icon/blob/master/dash-dart.ico/apple-icon-60x60.png)
 Created for special, unique recognition for the Flutter Team at Google. The badge recognizes the complexity of the issues and the closing of the most bugs before the launch of Flutter's latest release.
 
 Additional concepts and drawing are included.
